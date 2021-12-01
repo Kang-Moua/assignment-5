@@ -1,7 +1,7 @@
 /*
 CSC422 Section 100
 Teamwork Assignment
- */
+*/
 
 import java.util.Random;
 import java.util.ArrayList;
